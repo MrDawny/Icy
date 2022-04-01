@@ -5,3 +5,5 @@ To fuck over Icy for everything he has done.
 - Falsely accuses people
 - **Cuban**
 - Racist
+- Sexist
+# Last Updated: 4/1/2021
