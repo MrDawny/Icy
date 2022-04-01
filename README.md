@@ -4,3 +4,4 @@ To fuck over Icy for everything he has done.
 - Scammer
 - Falsely accuses people
 - **Cuban**
+- Racist
