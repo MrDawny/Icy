@@ -342,7 +342,7 @@ tab5:Label("Icy#6036 Skid | Scammer")
 tab5:Label("tim#4200 Skid & Scammer Supporter")
 tab5:Label("Minty X Productions All Rights Reserved")
 tab5:Label("Not sure wtf that means ^^^, its not copyrighted")
-tab5:Label("Leaked/"cracked" by tiny toes#8633")
+tab5:Label('Leaked/"cracked" by tiny toes#8633')
 
 game.StarterGui:SetCore("SendNotification", {Title = "Minty X", Text = "The Worst Selling Menu", Duration = math.huge})
 game.StarterGui:SetCore("SendNotification", {Title = "V0.1", Text = "Last Updated 5/12/22 Minty X Production ❄️🥶", Duration = math.huge})
