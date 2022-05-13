@@ -7,7 +7,6 @@ To fuck over Icy for everything he has done.
 - Hate Speech
 - Sexism
 - Lying
-# Last Updated: 5/12/2022
 
 # Last Updated: 5/13/2022
 
